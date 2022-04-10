@@ -10,7 +10,7 @@ const AboutMe = () => {
 					<hr class="solid bg-dark" />
 					<img
 						style={{ height: "250px" }}
-						src="public\images\profile.jpg" alt="profile picture"
+						src="https://user-images.githubusercontent.com/58231568/162637585-e411d39f-dfea-46ab-8237-9702ccbbb688.jpg" alt="profile picture"
 						class="pr-4 pb-3 img-fluid" />
 					<p style={{ fontSize: "27px" }}>
 						Hello, my name is Mbongeni Allan Ngwenya. I am a training Full-Stack Javascript developer with cloud experience.
